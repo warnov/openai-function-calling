@@ -1,0 +1,6 @@
+scipy
+tenacity
+tiktoken
+termcolor
+openai
+mm
